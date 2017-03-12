@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="socket.io-adapter-0.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/socket.io-adapter/0.4.0/854432ad0dd5d85a1a676431a6d57c93c53f1077/socket.io-adapter-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/socket.io-adapter/0.4.0/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/socket.io-adapter-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

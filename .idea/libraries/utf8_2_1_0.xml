@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="utf8-2.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/utf8/2.1.0/6e677738f1c9415c581d21d7df9b8b3e29dbb6a2/utf8-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/utf8/2.1.0/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/utf8-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

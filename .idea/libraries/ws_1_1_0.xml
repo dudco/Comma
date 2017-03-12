@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ws-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/ws/1.1.0/637dd41010daf85031dd1e90cb397c20ca0b3f75/ws-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/ws/1.1.0/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/ws-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

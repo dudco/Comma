@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mime-types-2.0.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/mime-types/2.0.12/63c4abadff1d65b289d922f618fb5527ecf21d9d/mime-types-2.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/mime-types/2.0.12/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/mime-types-2.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
